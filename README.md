@@ -22,11 +22,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a gold medalist in Bachelor of Science in Software Engineering from COMSATS University Islamabad.
 
-### Work Experience
-- **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology**: AI Researcher and Lab Engineer. Developed new lab courses and currently instruct labs in various AI and Data Science subjects.
-- **Fiverr**: Freelance NLP Engineer working on diverse projects in natural language processing and machine learning.
-- **Research Collaboration**: Engaged in predicting molecule solubility using advanced computational techniques with BCMaterials, Spain.
-
 ### 🛠️ Technical Skills
 - **Languages**:
   - ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=c-sharp) ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java) ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus) ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)

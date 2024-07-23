@@ -17,11 +17,7 @@
 
 ### 🛠️ Technical Skills
 - **Languages**:
-  - ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-  - ![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=c-sharp)
-  - ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java)
-  - ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
-  - ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+  - ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python) ![C#](https://img.shields.io/badge/C%23-blue?style=flat&logo=c-sharp) ![Java](https://img.shields.io/badge/Java-blue?style=flat&logo=java) ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus) ![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
 - **Libraries/Frameworks**:
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?style=flat&logo=tensorflow)
   - ![Keras](https://img.shields.io/badge/Keras-blue?style=flat&logo=keras)

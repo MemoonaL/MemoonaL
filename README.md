@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @MemoonaL
+### 👋 Hi, I’m @Memoona Saleem
 ### 👀 I’m interested in:
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat&logo=machine-learning&logoColor=white)
